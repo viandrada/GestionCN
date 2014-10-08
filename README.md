@@ -1,3 +1,3 @@
 GestionCN
 =========
-Proyecto Final 2014 - Tecnólogo en Informática
+Proyecto Final 2014 - Tecnólogo en Informática.
