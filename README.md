@@ -1,3 +1,3 @@
 GestionCN
 =========
-Proyecto Final 2014 - TecnÛlogo en Inform·tica
+Proyecto Final 2014 - Tecn√≥logo en Inform√°tica..
